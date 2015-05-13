@@ -1,6 +1,6 @@
 # ems
-Datenjournalismus &amp; Coding
-
+Datenjournalismus und Coding
+----------------------------
 
 Ein leider viel zu kurzer Workshop für die Volontäre der ems Babelsberg.
 
